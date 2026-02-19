@@ -8,14 +8,8 @@
 
 ## 💼 Sobre mim
 
-Profissional com 15 anos de experiência em automação comercial, ERP e PDV.
-
-Atuação forte em:
-- Suporte N3
-- Análise e correção de banco de dados
-- Integração com balanças, impressoras e periféricos
-- NFC-e / NF-e
-- Configuração de portas seriais (COM, baud rate, protocolos)
+Sou profissional da área de Tecnologia da Informação com mais de 15 anos de experiência, atuando com suporte técnico, infraestrutura, bancos de dados, cloud computing (Azure), sistemas ERP/PDV e atendimento ao cliente. Tenho formação técnica em Informática e graduação em Banco de Dados, além de sólida vivência com ferramentas como SQL Server, Postgres, Databse4, Db2, IBExpert, entre outras. Atualmente, atuo como Analista de Suporte Sênior, contribuindo com testes, QA, otimização de consultas e gestão de ambientes em nuvem e on-premise. Tenho bastante conhecimento com as ferramentas Microsoft Teams, Microsoft Outlook, Trello e Pipefy.
+Estou sempre em busca de soluções eficientes e crescimento contínuo, tanto pessoal quanto profissional.
 
 Atualmente focado em evolução para desenvolvimento mobile Android com Kotlin.
 
