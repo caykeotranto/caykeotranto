@@ -1,4 +1,4 @@
-# 👨‍💻 Cayke Lopes
+# 👨‍💻 Cayke Lopes Otranto
 
 🚀 Especialista em ERP e Banco de Dados  
 🛠 Suporte N3 | SQL Server | PostgreSQL | Firebird  
