@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👨‍💻 Cayke Lopes
 
-<!--
-**caykeotranto/caykeotranto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Especialista em ERP e Banco de Dados  
+🛠 Suporte N3 | SQL Server | PostgreSQL | Firebird  
+📱 Desenvolvedor Android (Kotlin) em evolução  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Sobre mim
+
+Profissional com 15 anos de experiência em automação comercial, ERP e PDV.
+
+Atuação forte em:
+- Suporte N3
+- Análise e correção de banco de dados
+- Integração com balanças, impressoras e periféricos
+- NFC-e / NF-e
+- Configuração de portas seriais (COM, baud rate, protocolos)
+
+Atualmente focado em evolução para desenvolvimento mobile Android com Kotlin.
+
+---
+
+## 🛠 Tecnologias e Ferramentas
+
+- SQL Server
+- PostgreSQL
+- Firebird
+- Android / Kotlin
+- Maven
+- IntelliJ IDEA
+- Integração Serial (PRT1, PRT2, PRT3)
+- Windows Server
+- ERP / PDV
+
+---
+
+## 📱 Projeto Atual
+
+### 🔹 Mini ERP Mobile (em desenvolvimento)
+
+Aplicativo estilo PDV/estoque para pequenos comércios.
+
+Funcionalidades planejadas:
+- Cadastro de produtos
+- Controle de estoque
+- Registro de vendas
+- Banco de dados local
+- Futuramente API REST
+
+---
+
+## 🎯 Objetivo
+
+Construir soluções práticas para automação comercial e evoluir como desenvolvedor mobile e backend.
+
+---
+
+## 📫 Contato
+
+LinkedIn: (https://www.linkedin.com/in/cayke-otranto/)
+Email: (caykeotranto@gmail.com)
